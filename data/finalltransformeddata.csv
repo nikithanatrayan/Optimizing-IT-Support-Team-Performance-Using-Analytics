@@ -1,0 +1,518 @@
+subject,type,queue,priority,language,version,tag_1,tag_2,tag_3,tag_4
+Wesentlicher Sicherheitsvorfall,Incident,Technical Support,high,de,51,Security,Outage,Disruption,Data Breach
+Account Disruption,Incident,Technical Support,high,en,51,Account,Disruption,Outage,IT
+Inquiry Regarding Invoice Details,Request,Billing and Payments,low,en,51,Billing,Payment,Account,Documentation
+Question About Marketing Agency Software Compatibility,Problem,Sales and Pre-Sales,medium,en,51,Product,Feature,Feedback,Tech Support
+Feature Query,Request,Technical Support,high,en,51,Feature,Product,Documentation,Feedback
+System Interruptions,Incident,Service Outages and Maintenance,high,en,51,Outage,Disruption,Performance,IT
+Connectivity Problems with Printer on MacBook Pro,Incident,Technical Support,medium,en,51,Network,Hardware,Performance,Bug
+Anfrage nach detaillierten Angaben zur Systemarchitektur der Plattform,Request,Technical Support,low,de,51,Documentation,Feedback,IT,Tech Support
+Anfrage zur KlÃ¤rung der Auswirkungen eines Serviceausfalls,Request,Service Outages and Maintenance,high,de,51,Disruption,Outage,Recovery,Support
+VPN Access Issue,Incident,Product Support,medium,en,51,Network,Disruption,VPN,Tech Support
+Issue with SaaS Platform Functionality,Incident,Product Support,medium,de,51,Bug,Performance,Disruption,Feature
+Immediate Help Needed: Technical Problem with Cloud SaaS Service,Problem,IT Support,medium,en,51,Bug,Crash,Network,Performance
+Inquiry for Detailed Information on Agency Offerings,Request,Product Support,high,en,51,Product,Service,Feedback,Sales
+Request for Issue Explanation,Incident,Product Support,medium,en,51,Bug,Issue,Disruption,Support
+Inquiry for In-Depth Details on Financial Institution Offerings,Request,Customer Service,medium,en,51,Inquiry,Product,Feature,Customer Support
+Enhancing Multi-Unit Marketing Processes,Request,Technical Support,high,en,51,Feature,Account,Marketing,Performance
+Inquiry for Comprehensive Marketing Service Details,Request,Customer Service,medium,en,51,Marketing,Feedback,Sales,Lead
+Query About Future Service Disruptions and Maintenance Timelines,Request,Service Outages and Maintenance,medium,en,51,Disruption,Maintenance,Notification,IT
+Proposal for Upgrades to Big Data Analytics Systems,Change,Technical Support,high,en,51,Product,Feature,Feedback,IT
+Guidelines for Incorporating Seagate Expansion Drives,Request,Technical Support,high,en,51,Product,Documentation,Security,IT
+Unable to Access Office Applications,Incident,Human Resources,high,en,51,Account,Security,Compatibility,Tech Support
+Query,Request,Billing and Payments,medium,en,51,Billing,Payment,Subscription,Product
+Multiple Device Connection Problems,Incident,IT Support,medium,en,51,Network,Disruption,Hardware,Tech Support
+Network Connection Problems,Incident,Technical Support,medium,en,51,Network,Performance,Disruption,IT
+VerbindungsstÃ¶rung,Problem,IT Support,high,de,51,Network,Disruption,Connectivity,Tech Support
+Audio Hardware Detected,Problem,Technical Support,low,en,51,Hardware,Tech Support,Driver,Audio
+Anfrage zu Sicherheitsvorkehrungen,Request,Returns and Exchanges,low,de,51,Security,Compliance,Data Privacy,Product
+Resolving Bose Headset and QNAP NAS Connection Problems,Incident,Technical Support,medium,en,51,Product,Hardware,Network,Disruption
+Intermittent Access Problems on SaaS Platform,Incident,Customer Service,medium,en,51,Network,Performance,Outage,Disruption
+Problem with Payment Billing Procedures,Problem,Billing and Payments,medium,en,51,Billing,Payment,Account,Assistance
+Request for CI/CD Pipeline Documentation,Request,Technical Support,low,en,51,Documentation,Feature,IT,Tech Support
+Video Issue with Mini-Projector on Ubuntu,Incident,Technical Support,high,de,51,Video,Hardware,Performance,Compatibility
+Connectivity Problems with Smart Device,Incident,Customer Service,low,en,51,Network,Disruption,Connectivity,Tech Support
+Inquiry for Comprehensive Billing Procedure Details,Request,Billing and Payments,low,en,51,Billing,Payment,Dispute,Documentation
+Urgent: Ongoing System Failures Disrupting EMR/PACS Telehealth Services,Incident,Technical Support,high,en,51,Bug,Outage,Disruption,Emergency
+Multiple Equipment Failures Affecting Operations,Incident,Technical Support,high,en,51,Outage,Disruption,Equipment,Hardware
+Organizational Revision,Change,General Inquiry,medium,en,51,Organization,Feedback,Support,Documentation
+Inquiry for Guidance on Smart Water Leak Detector Sensor Setup,Request,Product Support,high,en,51,Product,Feature,Documentation,Tech Support
+SSD-Ausfall,Incident,Technical Support,medium,de,51,Hardware,Bug,Performance,Outage
+Request for Integration Assistance,Request,Technical Support,medium,en,51,Feature,Security,IT,Tech Support
+Network Connectivity Issues,Incident,Technical Support,medium,de,51,Network,Connectivity,Disruption,Hardware
+Alert for Unauthorized Entry,Problem,Customer Service,low,en,51,Security,IT,Tech Support,Alert
+Anfrage zur KompatibilitÃ¤t und Sicherheitsintegration,Request,Sales and Pre-Sales,high,de,51,Security,Tech Support,Product,Feedback
+MÃ¤ngel im Incident-Response-Prozess,Problem,IT Support,medium,de,51,Bug,Performance,Disruption,Recovery
+Investment Inquiry,Request,Sales and Pre-Sales,low,de,51,Finance,Investment,Strategy,Customer Support
+Multiple Product Interruptions Disrupting Services,Incident,Technical Support,high,en,51,Disruption,Service,Product,Network
+Revise Marketing Firm Framework,Change,Customer Service,high,en,51,Feedback,Documentation,Product,Technology
+Query Regarding Customized Rule-Driven ESG Investment Approaches,Request,Returns and Exchanges,medium,en,51,Feature,Security,IT,Tech Support
+Anfrage zur RÃ¼ckerstattung,Request,Returns and Exchanges,medium,de,51,Refund,Return,Product,Documentation
+Overheating Concern,Incident,IT Support,high,en,51,Hardware,Performance,Disruption,Recovery
+Eiltiges Update fÃ¼r Hardware und Software,Change,Service Outages and Maintenance,medium,de,51,Hardware,Software,Disruption,Support
+Integration of Configuration Modifications,Change,Technical Support,high,en,51,Feature,IT,Tech Support,Configuration
+Anfrage zur Verbindung externer GerÃ¤te Ã¼ber Practices-Integrations-APIs,Request,Technical Support,medium,de,51,API,Security,Performance,Tech Support
+Request for Marketing Information,Request,Customer Service,medium,de,51,Marketing,Feedback,Product,Information
+Financial Investment Inquiry,Request,Customer Service,low,en,51,Finance,Investment,Customer Support,Information
+Query Regarding Investment Solutions,Request,Customer Service,medium,en,51,Product,Feature,Feedback,IT
+Query Regarding Integration Resources,Request,Customer Service,medium,en,51,Documentation,Support,Integration,Tool
+Anfrage zur Ãœberarbeitung der Verkaufsdokumente fÃ¼r Sicherheitsdienste,Change,Sales and Pre-Sales,medium,de,51,Product,Documentation,Feedback,Sales
+Anfrage zu technischen Spezifikationen der SaaS-LÃ¶sung,Request,Customer Service,low,de,51,Product,Feature,Security,Performance
+Discrepancies in Recent Billing Statement,Incident,Billing and Payments,medium,en,51,Billing,Account,Hardware,Discrepancy
+Dringende Angelegenheit: Verlust der WLAN-Verbindung,Problem,Service Outages and Maintenance,high,de,51,Network,Outage,Disruption,Hardware
+Request for Clarification on Compliance Procedures,Problem,Customer Service,low,en,51,Compliance,Documentation,Process,Support
+Office Equipment Malfunctions,Problem,Technical Support,high,en,51,Hardware,Network,Disruption,Maintenance
+Anfrage zu Abrechnungs- und Zahlungsdetails,Request,Billing and Payments,high,de,51,Billing,Payment,Refund,Account
+Network Connectivity Problems Impacting Medical Equipment,Incident,IT Support,medium,en,51,Network,Connectivity,Performance,Security
+Several Critical Devices Experiencing Network Failures,Incident,Technical Support,high,en,51,Network,Hardware,Outage,Disruption
+Problem Report,Problem,Product Support,medium,en,51,Account,Support,Feedback,Documentation
+Multiple Product Interruptions,Incident,Product Support,medium,de,51,Disruption,Outage,Performance,Service
+Performance Issue on SaaS Platform,Problem,Technical Support,high,de,51,Performance,Outage,Disruption,Reliability
+Device Compatibility Concern,Problem,Customer Service,medium,en,51,Product,Hardware,Software,Compatibility
+Anfrage zu Rechnungs- und Zahlungsinformationen,Request,Billing and Payments,high,de,51,Billing,Payment,Invoice,Support
+Network Connectivity Problems,Incident,Product Support,medium,en,51,Network,Disruption,Connectivity,Tech Support
+Critical Support Needed for Cloud-Native SaaS System Disruption Affecting Business Functions,Incident,Customer Service,high,en,51,Disruption,Performance,Outage,Cloud-Native
+Product Assistance Request,Request,IT Support,high,en,51,Product,Support,Feedback,Tech Support
+Occasional Disruptions Across Several Products Post-Update,Incident,IT Support,medium,en,51,Disruption,Outage,Performance,Bug
+Synchronisationsproblem,Incident,Technical Support,low,de,51,Performance,Bug,Data,Synchronization
+Periodic System Response Failures,Incident,Technical Support,high,en,51,Performance,Outage,Disruption,Recovery
+Critical Security Breach in Telehealth Platforms,Incident,Technical Support,high,en,51,Security,Bug,Outage,Disruption
+Instructions for Returning Products,Request,Returns and Exchanges,high,en,51,Return,Product,Customer Support,Feedback
+Inquiry About Product Integration Procedures,Request,Technical Support,medium,en,51,Product,Documentation,Feature,Tech Support
+Request for Enhancements to Big Data Infrastructure for Analytics Platforms,Change,Technical Support,high,de,51,Feature,Performance,Analytics,Tech Support
+Anfrage zu Investment-Strategie-Angeboten,Request,Product Support,low,de,51,Product,Feature,Feedback,Investment
+Issue Notification,Incident,Technical Support,medium,en,51,Disruption,Outage,Performance,Feature
+Anfrage zu NetzwerkausrÃ¼stungsdetails,Request,Customer Service,low,de,51,Network,Hardware,IT,Tech Support
+Connectivity Issue with iOS Device,Incident,Technical Support,high,de,51,Network,Connectivity,Performance,Disruption
+Malfunction,Problem,IT Support,high,en,51,Bug,Hardware,Performance,Outage
+Invoice Inquiry,Request,Billing and Payments,high,en,51,Billing,Invoice,Account,Support
+Guidance on Secure EMR Integration,Request,Technical Support,high,en,51,Security,IT,Tech Support,Documentation
+Bluetooth-Verbindungsprobleme,Incident,IT Support,medium,de,51,Bluetooth,Hardware,Connectivity,Disruption
+Inquiry for In-Depth Product Integration Details,Request,IT Support,high,en,51,Product,Feature,Documentation,Tech Support
+Urgent Service Disruption Detected in EMR System,Incident,Service Outages and Maintenance,high,en,51,Disruption,Network,Security,IT
+Inquiry for Details of Recent Incident,Incident,Human Resources,medium,en,51,Account,Incident,Security,Feedback
+Billing Instructions,Request,Billing and Payments,medium,en,51,Billing,Payment,Product,Documentation
+Rechnungserkundigung,Request,Billing and Payments,medium,de,51,Billing,Refund,Payment,Disruption
+Issues with RAID Controller Device Connectivity,Incident,Product Support,medium,de,51,Hardware,Performance,Disruption,Tech Support
+Inquiry About Procedures for Incorporating Agile SaaS Hardware Devices,Request,Technical Support,high,en,51,Documentation,Hardware,Tech Support,Product
+BenÃ¶tigte Anleitung zur effektiven bereichsÃ¼bergreifenden Kollaboration,Request,Product Support,high,de,51,Documentation,Feedback,Training,IT
+Issue Report,Incident,Technical Support,medium,en,51,Disruption,Outage,Performance,Cloud
+System Infrastructure Enhancement,Change,IT Support,medium,en,51,Performance,Maintenance,Infrastructure,Technology
+Critical Service Disruption in Telehealth,Incident,Service Outages and Maintenance,medium,en,51,Disruption,Network,Security,Tech Support
+Advice on Securing Telehealth Platforms,Request,Technical Support,medium,en,51,Security,IT,Tech Support,Documentation
+Query Regarding Assistance with System Integration,Request,IT Support,medium,en,51,Product,Integration,Technical Support,Feedback
+Peripheral Device Difficulties,Incident,IT Support,medium,en,51,Hardware,Performance,Network,Disruption
+Immediate Help Needed: Major Data Lake Access Problem,Incident,Technical Support,medium,en,51,Network,Performance,Disruption,Outage
+KlÃ¤rungsbedarf,Problem,Customer Service,low,de,51,Support,Issue,Troubleshooting,Technical Support
+Immediate Attention Required: Platform Downtime Disrupting Device Connectivity,Incident,Technical Support,high,en,51,Outage,Disruption,Recovery,Hardware
+Inquiry About Company Offerings,Request,General Inquiry,medium,en,51,Product,Documentation,Feedback,Sales
+Marketing Summary,Request,Customer Service,high,en,51,Marketing,Feedback,Service,Campaign
+Inconsistency in Billing Charges,Incident,Billing and Payments,low,en,51,Billing,Refund,Account,Payment
+Request for Documentation and Expert Support for Securely Integrating Valve Index VR Kit with Ubuntu,Request,IT Support,low,en,51,Documentation,Tech Support,Security,Hardware
+Query Regarding Platform Features,Request,Technical Support,high,en,51,Feature,Documentation,Feedback,Tech Support
+Dringende UnterstÃ¼tzung bei Problem mit der Cloud-Plattform des Agile Teams benÃ¶tigt,Problem,Customer Service,high,de,51,Network,Performance,Disruption,Tech Support
+Invoice Discrepancy Concern,Problem,Billing and Payments,low,en,51,Billing,Account,Payment,Refund
+Urgent: Extensive Service Outage Affecting SaaS Platform,Incident,Technical Support,high,en,51,Outage,Disruption,Hardware,Software
+Billing Discrepancy Across Multiple Items,Incident,Billing and Payments,high,en,51,Billing,Discrepancy,Invoice,Product
+Revision of Maintenance and Outage Notification Protocols,Change,Service Outages and Maintenance,low,en,51,Maintenance,Outage,Notification,Protocols
+Critical Alert: Connectivity Disruptions in Devices,Incident,Technical Support,medium,en,51,Network,Disruption,Security,Tech Support
+Severe Service Disruption Detected in EMR Platform,Incident,Service Outages and Maintenance,high,en,51,Disruption,Network,Security,IT
+"Vorfall bei GerÃ¤teanbindung auf SaaS-Plattform, KommunikationsstÃ¶rungen",Incident,Product Support,medium,de,51,Bug,Disruption,Performance,Network
+Integration Ã¼ber mehrere GerÃ¤te hinweg,Request,Customer Service,medium,de,51,Feature,Integration,Automation,Financial Services
+Request to Return Electronic Hardware Items,Incident,Returns and Exchanges,low,en,51,Return,Hardware,Product,Issue
+Probleme mit der WLAN-Verbindung,Problem,Product Support,medium,de,51,Network,Performance,Disruption,IT
+Inquiry About Marketing Agency Services,Request,Sales and Pre-Sales,low,en,51,Sales,Lead,Feedback,Marketing
+Zahlreiche GerÃ¤te im BÃ¼ro laufen ordnungsgemÃ¤ÃŸ,Incident,IT Support,medium,de,51,Hardware,Software,Maintenance,Support
+Request for Clarification on Product Issue Impact,Incident,Product Support,low,en,51,Product,Issue,Feedback,Support
+Mehrere Probleme mit GerÃ¤ten,Problem,Technical Support,low,de,51,Hardware,Performance,Disruption,Tech Support
+Immediate Attention Needed: Multiple Equipment Experiencing Connectivity Performance Problems,Incident,IT Support,high,en,51,Hardware,Network,Performance,Disruption
+Query About Service Downtime Maintenance Progress,Request,Service Outages and Maintenance,high,en,51,Outage,Disruption,Maintenance,Recovery
+Alert: Disruption in Microservices Deployment,Incident,Customer Service,low,en,51,Disruption,Microservice,Deployment,Performance
+Problem with Printer Not Printing Files,Problem,Customer Service,low,en,51,Printer,Hardware,Issue,Support
+Dringende UnterstÃ¼tzung wegen Abrechnungsdifferenz benÃ¶tigt,Problem,Billing and Payments,medium,de,51,Billing,Account,Payment,Disruption
+Mac Mini System Instability,Problem,Product Support,low,en,51,Bug,Crash,Hardware,Performance
+Critical Alert: Fault in Automated Portfolio Rebalancing System,Incident,Technical Support,medium,en,51,Alert,Disruption,Performance,Software
+Inquiry Regarding Agile Team Configuration Details,Request,Customer Service,low,en,51,IT,Tech Support,Feedback,Documentation
+Query About Security Standards and Practices,Request,Customer Service,high,en,51,Security,Compliance,Hardware,Software
+Synchronization Problem,Problem,IT Support,high,en,51,Synchronization,Performance,Software,Integration
+Immediate Attention Needed: Cloud SaaS Service Performance Concerns,Problem,Technical Support,high,en,51,Performance,Outage,Disruption,Tech Support
+Immediate Attention Needed: Multiple Units Experiencing Connectivity Performance Problems,Incident,IT Support,high,en,51,Network,Performance,Hardware,Tech Support
+Multiple Device Connectivity Issues Following Recent OS Update,Incident,Technical Support,medium,de,51,Network,Disruption,Hardware,Tech Support
+Anfrage zur IT-Support-Integration,Request,IT Support,medium,de,51,IT,Tech Support,Software,Hardware
+Multiple Product Disruptions Impacting Services,Incident,Technical Support,high,en,51,Disruption,Product,Network,Security
+Incident Affecting Multiple Devices,Incident,IT Support,high,de,51,Bug,Malware,Performance,Disruption
+Anfrage zu anstehenden Wartungsarbeiten und geplanten Serviceunterbrechungen,Request,Service Outages and Maintenance,medium,de,51,Maintenance,Outage,Disruption,IT
+Image Distortion on Projector Across Multiple Devices,Incident,Product Support,low,en,51,Bug,Hardware,Performance,Disruption
+Incident Report,Incident,IT Support,medium,de,51,Performance,Outage,Disruption,Tech Support
+Display Connectivity Problems with Monitor,Incident,Customer Service,low,en,51,Display,Connectivity,Hardware,Troubleshooting
+Improving Marketing Workflow Efficiency,Change,Technical Support,high,en,51,Feature,Performance,Feedback,IT
+Urgent: Cannot Submit Performance Marketing Analytics Report Due to Data Lake Issue,Incident,Product Support,medium,en,51,Performance,Analytics,Data Integration,Tech Support
+Urgent: Technical Issue Disrupting Campaign Performance Metrics Analysis,Incident,Technical Support,high,en,51,Bug,Performance,Disruption,Tech Support
+Audio-Ausgabefehler,Problem,Technical Support,medium,de,51,Audio,Hardware,Sound,Tech Support
+Urgent Login Problem with QuickBooks Account,Incident,Human Resources,medium,en,51,Account,Login,IT,Tech Support
+Billing Inconsistency on Multi-Product Invoice,Incident,Billing and Payments,low,en,51,Billing,Invoice,Product,Payment
+Issue with Automated Rebalancing Systems,Incident,Technical Support,high,en,51,Feature,Security,Account,Tech Support
+Incident Concerning Device Impact,Incident,Technical Support,high,de,51,Outage,Disruption,Hardware,Network
+Connectivity Issue,Incident,Technical Support,medium,de,51,Network,Disruption,Outage,Tech Support
+Eilige UnterstÃ¼tzung benÃ¶tigt: Abrechnungsprobleme bei mehreren AbonnementverlÃ¤ngerungen,Incident,Billing and Payments,high,de,51,Billing,Payment,Refund,Automation
+Anfrage zur technischen Dokumentation der SaaS-Architektur,Request,Technical Support,high,de,51,Documentation,Feature,IT,Tech Support
+Anfrage nach ausfÃ¼hrlichen Richtlinien fÃ¼r den Produktintegrationsablauf,Request,Customer Service,high,de,51,Product,Documentation,Technical Support,Feedback
+Invoicing Inquiry,Change,Billing and Payments,high,en,51,Billing,Payment,Account,Support
+Herausforderungen bei der Abstimmung im Agile Team,Problem,Customer Service,medium,de,51,Agile,Coordination,Organization,Sprint
+Fortbestehende Verbindungsprobleme mit dem GerÃ¤t,Problem,Product Support,medium,de,51,Network,Connectivity,Software,Firmware
+Invoice Issue,Problem,Billing and Payments,low,de,51,Billing,Invoice,Payment,Issue
+Inquiry for In-Depth Details on Agency Offerings,Request,Product Support,high,en,51,Customer Service,Feedback,Inquiry,Product
+Anfrage zum Funktionsvergleich,Request,Customer Service,medium,de,51,Feature,Security,Product,IT
+Query About Payment Details on Invoice,Request,Billing and Payments,high,en,51,Billing,Payment,Account,Documentation
+Security Management Summary,Request,Customer Service,high,en,51,Security,Compliance,Security Management,Documentation
+Optimizing Marketing Workflow Efficiency,Change,Technical Support,high,en,51,Feature,Performance,Automation,Account
+Dringliche Mitteilung: Umfangreiche Serviceunterbrechung bei SaaS-Plattform,Incident,Technical Support,high,de,51,Outage,Disruption,Hardware,Software
+Client Reporting Dashboard Refresh Issue,Problem,Technical Support,high,en,51,Performance,Dashboard,Issue,Tech Support
+Connectivity Problems with USB-C Ethernet Adapter After Recent Network Update,Problem,IT Support,low,en,51,Network,Connectivity,Hardware,Driver
+Anfrage zu Produktintegrationsrichtlinien und Sicherheitsbest Practices fÃ¼r den Einsatz im Gesundheitswesen,Request,Product Support,medium,de,51,Product,Feature,Security,IT
+Peripheral Device Problems,Problem,Human Resources,low,en,51,Hardware,Performance,Disruption,Tech Support
+Question About Service Functionality,Problem,General Inquiry,medium,en,51,Feature,Feedback,Documentation,Tech Support
+Connection Setup,Request,Customer Service,medium,en,51,Network,Security,IT,Tech Support
+System outages affecting EMR Telemedicine services,Incident,Product Support,medium,de,51,Outage,Disruption,Recovery,IT
+Compatibility Issue,Problem,Customer Service,medium,en,51,Bug,Compatibility,Software,Hardware
+Immediate Attention Needed: Problems with Evernote Disrupting Key Tasks,Incident,Technical Support,high,en,51,Disruption,Performance,Tech Support,Software
+KonnektivitÃ¤tsprobleme,Incident,Product Support,medium,de,51,Network,Disruption,Connectivity,Tech Support
+Mehrere GerÃ¤te-SoftwareausfÃ¤lle beeintrÃ¤chtigen den Handel,Incident,Technical Support,high,de,51,Bug,Hardware,Network,Performance
+Inquiry for Guidance on Smart Water Leak Detector Sensor Integration,Request,Product Support,high,en,51,Product,Feature,Documentation,Support
+Request for Security Documentation,Request,IT Support,medium,de,51,Security,Documentation,Compliance,IT
+Enhancement and Streamlining,Change,Product Support,high,de,51,Feature,Performance,Security,Architecture
+Urgent System Failures,Incident,Technical Support,high,en,51,Bug,Crash,Hardware,Network
+Service Disruption on Cloud-Based SaaS Platform,Incident,Customer Service,medium,en,51,Disruption,Outage,Performance,Cloud
+Ausfall der Cloud-basierten Plattform,Problem,Technical Support,high,de,51,Outage,Disruption,Performance,Service
+Security Incident Alert,Incident,Technical Support,medium,de,51,Security,Virus,Network,IT
+Immediate Attention: System Failures and Connectivity Problems with Medical Equipment,Incident,Technical Support,high,en,51,Bug,Hardware,Network,Disruption
+Dringend: Persistierende Verbindungsprobleme bei Switches,Problem,Customer Service,low,de,51,Network,Hardware,Disruption,Tech Support
+Performance Concerns with Cloud SaaS Platform,Incident,IT Support,low,en,51,Performance,Outage,Disruption,Tech Support
+Immediate Attention Needed: IoT Network Security Concerns,Incident,Technical Support,high,en,51,Security,Network,Outage,Disruption
+Question About Integration Procedures and Best Practices for Onboarding New Hardware and Software on SaaS Platform,Request,IT Support,medium,en,51,Product,Documentation,Training,Tech Support
+Security Alert: EMR/PACS Integration Compromised,Incident,Product Support,low,en,51,Security,Alert,IT,Tech Support
+Koordinationsherausforderungen zwischen Abteilungen,Incident,Customer Service,low,de,51,Communication,Coordination,Workflow,Performance
+Problem mit der neuesten Bestellung,Incident,Returns and Exchanges,medium,de,51,Order,Product,Shipment,Disruption
+Optimierung der FlexibilitÃ¤t in der Teamorganisation,Change,IT Support,low,de,51,Team Organization,Optimization,Cloud Platform,Flexibility
+Critical Service Disruption Impacting Multiple Offerings,Change,Service Outages and Maintenance,high,en,51,Disruption,Outage,Performance,Service
+Support Request for IT-Integration,Request,IT Support,low,de,51,IT,Tech Support,Integration,Performance
+Request for Clarification on Product Issue Consequences,Incident,Product Support,low,en,51,Product,Feedback,Support,Clarification
+Analytics System Outage,Incident,Technical Support,high,de,51,Outage,Disruption,Network,Performance
+Immediate Attention Needed: IoT Device Connectivity and Security Concerns,Incident,Technical Support,high,en,51,Security,Network,Disruption,Outage
+Immediate Assistance Needed: Technical Problem with Cloud SaaS Service,Problem,IT Support,medium,en,51,Bug,Performance,Network,Disruption
+Problem,Incident,IT Support,medium,en,51,Feature,Bug,IT,Tech Support
+Overview of Security Solutions,Request,Sales and Pre-Sales,medium,en,51,Security,IT,Tech Support,Documentation
+Inquiry About Marketing Agency Information,Request,Customer Service,low,en,51,Sales,Lead,Feedback,Marketing
+Service Disruption,Problem,Service Outages and Maintenance,high,en,51,Disruption,Network,Outage,Technical Support
+Notification of SaaS Platform Outage,Incident,Technical Support,high,de,51,Outage,Disruption,Performance,Notification
+Connectivity Difficulties Across Multiple Devices,Incident,Product Support,low,en,51,Network,Disruption,Hardware,Tech Support
+Connectivity issues with USB-C Ethernet adapter,Problem,IT Support,low,de,51,Network,Hardware,Connectivity,Driver
+HyperX Cloud II Wireless verbindet sich stÃ¤ndig unerwartet ab,Problem,Technical Support,high,de,51,Network,Disruption,Hardware,Tech Support
+Touchscreen Display Detecting Inputs,Incident,Product Support,medium,en,51,Bug,Hardware,Performance,Tech Support
+Security Regulatory Adherence,Problem,Product Support,high,en,51,Security,Compliance,Vulnerability,System Integrity
+Inquiry for Clarification,Request,IT Support,high,en,51,Product,Documentation,Support,Feedback
+Incident Caused by Discrepancies in Account Management Center,Incident,Product Support,medium,de,51,Account,Bug,Disruption,Navigation
+Immediate Attention Needed: Centralized Account Management System Outage,Incident,Technical Support,high,en,51,Outage,Disruption,Security,IT
+Question,Request,Technical Support,high,en,51,Product,Feature,Documentation,Feedback
+Anfrage bezÃ¼glich Einhaltung von KonformitÃ¤tsnachweisen,Request,Sales and Pre-Sales,low,de,51,Security,Documentation,Product,Compliance
+Excel's Memory Spike Causing Sluggishness,Incident,Technical Support,high,de,51,Performance,Bug,Hardware,Tech Support
+Configuration Enhancement Requests,Change,Technical Support,high,en,51,Feature,IT,Tech Support,Feedback
+Verbindungsproblem mit VR-Controller,Problem,Technical Support,medium,de,51,Network,Hardware,Tech Support,Issue
+Inefficiencies in Incident Management,Problem,IT Support,medium,en,51,Bug,Performance,Disruption,IT
+Query About Compatibility of Integration,Request,Technical Support,medium,en,51,Feature,Integration,Analytics,Machine Learning
+Technisches Problem mit Alarmmeldung,Incident,Technical Support,high,de,51,Bug,Hardware,Network,Disruption
+Inquiry About ESG Analytics System,Request,Product Support,medium,en,51,Feature,Feedback,IT,Tech Support
+Smart Home Center Device Synchronization Issue,Problem,Technical Support,high,en,51,Smart Home,Firmware,Device,Synchronization
+Need for clarification on the billing and payment procedure,Request,Billing and Payments,medium,de,51,Billing,Payment,Account,Documentation
+Invoicing Instructions,Request,Billing and Payments,medium,en,51,Billing,Payment,Documentation,Feedback
+Repeated Connection Interruptions During Chromebook Login,Problem,Product Support,medium,en,51,Network,Disruption,IT,Tech Support
+Update der Systemkonfiguration,Change,IT Support,medium,de,51,IT,Tech Support,Security,Maintenance
+Leitfaden,Request,Billing and Payments,medium,de,51,Documentation,Payment,Integration,Security
+Revision of Return and Exchange Workflows,Change,Returns and Exchanges,medium,de,51,Product,Workflow,Feedback,Customer Service
+Camera Connection Problems,Incident,Product Support,high,en,51,Network,Security,Hardware,Tech Support
+Problem with Account Management Center Data Syncing,Incident,Technical Support,high,en,51,Account,Tech Support,Security,Performance
+Problem with Return and Swap,Incident,Returns and Exchanges,low,en,51,Return,Swap,Product,Customer Support
+Critical Security Breach Impacting EMR Integration Platform,Problem,Product Support,medium,en,51,Security,Bug,Crash,IT
+Product Functionality Disruption,Incident,Product Support,medium,en,51,Disruption,Performance,Feature,Product
+Video crashes unexpectedly,Incident,Technical Support,high,de,51,Bug,Crash,Software,Performance
+Assistance Required for Chromebook KVM Setup,Request,Customer Service,low,en,51,Hardware,Network,Security,IT
+Inquiry Regarding Enhancements to Technical Infrastructure for Marketing,Change,Technical Support,high,en,51,IT,Tech Support,Performance,Feature
+Connectivity Problem with Network Equipment,Problem,Technical Support,high,en,51,Network,Hardware,Performance,Disruption
+Urgent: Several Hardware and Software Failures,Incident,Technical Support,medium,en,51,Hardware,Software,Outage,Disruption
+Sales Question,Incident,Sales and Pre-Sales,high,en,51,Sales,Lead,Feedback,Product
+Billing Discrepancy Concern,Incident,Billing and Payments,medium,en,51,Billing,Payment,Issue,Support
+Issue with Billing and Payment Processing,Problem,Billing and Payments,medium,de,51,Billing,Payment,Account,Disruption
+Issue with Automated Rebalancing Engines,Incident,Technical Support,high,de,51,Performance,System,Feature,IT
+Return Authorization Request,Request,Returns and Exchanges,medium,en,51,Return,Refund,Product,Policy
+Request for Integration Management,Request,Technical Support,medium,de,51,Feature,Security,IT,Tech Support
+Marketing Overview,Request,Customer Service,high,de,51,Feedback,Marketing,Collaboration,Service
+Questions Regarding Promotional Solutions,Request,Product Support,medium,en,51,Sales,Feedback,Product,Marketing
+Inquiry about Corporate Solutions,Request,Sales and Pre-Sales,medium,de,51,Product,Service,Feeedback,IT
+Eilige Angelegenheit,Incident,Technical Support,high,de,51,Bug,Performance,Outage,Disruption
+Critical Support Needed for Cloud-Based SaaS System Disruption Affecting Business Functions,Incident,Customer Service,high,en,51,Disruption,Outage,Performance,Security
+Dringend: Technische StÃ¶rung beeintrÃ¤chtigt Kampagnenleistungsdaten und Analyseberichte,Incident,Technical Support,high,de,51,Bug,Outage,Disruption,Performance
+Financial Planning,Request,Customer Service,low,en,51,Finance,Investment,Portfolio,Strategy
+Notification of Several Service Interruptions,Incident,Product Support,medium,en,51,Disruption,Security,Monitoring,IT
+Regulatory Adherence,Change,Customer Service,low,en,51,Security,IT,Tech Support,Documentation
+Dringender Support erforderlich wegen Abrechnungsdifferenz,Incident,Billing and Payments,medium,de,51,Billing,Refund,Disruption,Customer Support
+Immediate Assistance Required for SaaS Platform Issue,Problem,Technical Support,medium,en,51,Outage,Disruption,Performance,Tech Support
+Immediate Attention Needed: Peripheral Software Error Disrupting Workflow,Problem,IT Support,high,en,51,Bug,Disruption,Software,Hardware
+Inquiry about Product Integration Procedures and Security Protocols for Healthcare Deployment,Request,Product Support,medium,en,51,Product,Security,Deployment,Tech Support
+Immediate Attention Needed: Multiple Device Application Failures Disrupting Usage,Incident,Technical Support,high,en,51,Bug,Crash,Hardware,Performance
+Request for Update on Security Operations Compliance Summary,Change,Product Support,low,en,51,Security,Compliance,IT,Tech Support
+"Vorfall bei GerÃ¤teanbindung an SaaS-Plattform, KommunikationsstÃ¶rung",Incident,Product Support,medium,de,51,Network,Disruption,Outage,Technical Support
+Recent OS Update Causes Multiple Device Connectivity Issues,Incident,Technical Support,medium,en,51,Bug,Hardware,Network,Disruption
+Guidelines for Product Returns,Request,Returns and Exchanges,high,de,51,Return,Product,Guidance,Customer Support
+Immediate Attention Needed: Network Switch Malfunction,Incident,Technical Support,high,en,51,Network,Hardware,Outage,Disruption
+Widespread System Failures Disrupting EMR Telehealth Services,Incident,Product Support,medium,en,51,Outage,Disruption,Performance,System Failure
+Problems with Product Integration and Connection,Problem,Product Support,medium,en,51,Product,Connectivity,Network,Troubleshooting
+Delivery Issues with Outlook Email,Incident,Technical Support,medium,de,51,Delivery,Email,Network,Disruption
+Immediate Help Needed for Account Management Portal,Problem,Product Support,medium,en,51,Account,Usability,Interface,Dashboard
+Immediate Attention Needed: Microservice Outages Disrupting SaaS System,Incident,Technical Support,high,en,51,Outage,Disruption,Performance,Cloud
+Anliegen,Problem,Product Support,medium,de,51,Account,Support,Workflow,Delay
+Issue with Invoice Payment Processing,Incident,Billing and Payments,high,de,51,Billing,Payment,Issue,Disruption
+Request for Billing and Payment Details,Request,Billing and Payments,high,de,51,Billing,Payment,Invoice,Account
+Inquiry for Product Information,Request,Product Support,medium,en,51,Product,Information,Support,Feedback
+Incident with Cloud-Native SaaS Service,Incident,Technical Support,medium,de,51,Outage,Performance,Cloud,Tech Support
+Inquiry for Incident Explanation,Incident,Customer Service,low,en,51,Customer,Support,Incident,Clarification
+Critical Support Request for Pre-Sales Query,Incident,Sales and Pre-Sales,low,en,51,Sales,Product,Feature,Support
+Probleme bei der Abrechnung und Zahlungsabwicklung,Incident,Billing and Payments,low,de,51,Billing,Payment,Refund,Account
+Issue Affecting Several Devices,Incident,Product Support,low,en,51,Bug,Security,Disruption,IT
+Anfrage nach ausfÃ¼hrlichen Details zur Produktschnittstelle,Request,Product Support,medium,de,51,Product,Feature,Documentation,Tech Support
+Excel Performance Lag and Memory Surge,Incident,Technical Support,high,en,51,Performance,Bug,Memory,Tech Support
+Immediate Attention Required: Multiple Marketing Platforms Encountering Downtime,Incident,Technical Support,high,en,51,Outage,Disruption,Performance,Notification
+Immediate Help Needed for KVM Switch Connectivity Issue,Problem,Technical Support,medium,en,51,Hardware,Network,Disruption,Tech Support
+"Fehler bei der Abrechnung, betrifft Zahlungen",Problem,Billing and Payments,high,de,51,Billing,Payment,Bug,Automation
+Sales Query,Incident,Sales and Pre-Sales,high,en,51,Sales,Feedback,Product,Feature
+Urgent Discrepancy in Billing: Invoice Reconciliation Services,Problem,Billing and Payments,medium,en,51,Billing,Discrepancy,Invoice,Payment
+Urgent Query About Detected Billing Discrepancy,Incident,Billing and Payments,medium,en,51,Billing,Account,Disruption,Feedback
+Inquiry Regarding Network Hardware Details,Request,Customer Service,low,en,51,Network,Hardware,IT,Tech Support
+Problem with Synchronization in Account Management Hub,Incident,Technical Support,high,de,51,Account,Synchronization,Tech Support,Issue
+Urgent Issue Affecting Multiple Systems,Incident,Technical Support,high,en,51,Bug,Outage,Disruption,Performance
+Fehler bei GerÃ¤teintegration beeintrÃ¤chtigt Marketingprozess,Problem,Customer Service,high,de,51,Bug,Hardware,Network,Performance
+Device Software Compatibility Concerns,Problem,Sales and Pre-Sales,high,en,51,Product,Compatibility,Software,Support
+Discrepancy in Billing for Multiple Products Invoice,Incident,Billing and Payments,low,de,51,Billing,Invoice,Product,Refund
+Drittanbieter-Software Integration Praktiken,Request,Product Support,medium,de,51,Product,Integration,Hardware,Cloud
+Issue Affecting Cloud Software Service,Incident,Sales and Pre-Sales,medium,en,51,Outage,Disruption,Cloud Software,Service
+Urgent Security Breach Alert,Incident,Technical Support,high,en,51,Security,Outage,Disruption,Notification
+Anfrage nach detaillierten Angaben zum Service-Portfolio,Request,Product Support,medium,de,51,Service,Documentation,Feedback,Sales
+Billing and Payment Procedures,Request,Billing and Payments,medium,de,51,Billing,Payment,Process Automation,Integration
+Inquiry Regarding Promotional Service Offerings,Request,Technical Support,medium,de,51,Marketing,Sales,Lead,Feedback
+Trouble Logging into QuickBooks Online,Incident,IT Support,medium,en,51,Account,Login,Technical Support,Bug
+Invoicing Concerns,Incident,Billing and Payments,high,en,51,Billing,Payment,Account,Refund
+Request for Enhanced Support Capabilities on SaaS Platform,Change,Product Support,medium,de,51,Feature,Product,IT,Tech Support
+Device Failures,Problem,Product Support,medium,en,51,Hardware,Crash,Connectivity,Disruption
+Several Equipment Malfunctions Disrupting Operations,Incident,Product Support,high,en,51,Hardware,Network,Outage,Disruption
+Account Issue,Problem,Technical Support,high,de,51,Account,Security,IT,Tech Support
+Ongoing Problem with Evernote Synchronization,Incident,Technical Support,high,en,51,Bug,Performance,Synchronization,App Issue
+Investigation of Sporadic Service Interruptions,Incident,IT Support,medium,en,51,Outage,Disruption,Performance,Security
+Urgent Security Breach Impacting Healthcare System Integrations,Incident,Technical Support,high,en,51,Security,Virus,Network,IT
+Incorporating Python with Excel,Request,Product Support,high,en,51,Feature,Performance,IT,Tech Support
+Network Connectivity Concerns,Incident,Technical Support,high,en,51,Network,Performance,Hardware,Disruption
+Cloud-Downfall,Incident,Customer Service,medium,de,51,Outage,Disruption,Performance,Security
+Compliance mit Vorschriften,Change,Product Support,low,de,51,Security,IT,Compliance,Tech Support
+Optane Module Malfunction,Problem,IT Support,high,en,51,Hardware,Performance,Bug,Disruption
+Network Connectivity Difficulties Impacting Medical Equipment,Incident,IT Support,medium,en,51,Network,Security,Hardware,Disruption
+Compliance Enforcement,Change,Product Support,low,de,51,Security,Compliance,Technology,Product
+Performance Concerns with Cloud-Native SaaS Service,Problem,Technical Support,high,en,51,Performance,Cloud Native,Network,Tech Support
+Service Disruption Notice,Incident,Service Outages and Maintenance,high,en,51,Disruption,Outage,Service,Infrastructure
+Information About Agile Teams,Request,Customer Service,high,en,51,Product,Feature,Documentation,Feedback
+Incident Due to Misalignment in Account Management Hub,Incident,Product Support,medium,de,51,Account,Bug,User Experience,Feature
+Outlook Synchronization Issue,Problem,Technical Support,medium,de,51,Outlook,Synchronization,Email,Tech Support
+Hardware Troubles,Incident,Technical Support,medium,de,51,Hardware,Network,Disruption,Tech Support
+Printing Ink Malfunction,Incident,Technical Support,medium,en,51,Bug,Hardware,Performance,Firmware
+Performance Concern with Cloud-Native SaaS Service,Problem,Technical Support,high,en,51,Performance,Network,Hardware,Disruption
+Critical: Cloud Infrastructure Downtime Impacting SaaS Offerings,Incident,Technical Support,high,en,51,Outage,Disruption,Recovery,Cloud Infrastructure
+Anfrage zu ProduktkompatibilitÃ¤tsinformationen,Request,Product Support,low,de,51,Product,Compatibility,Hardware,Support
+Intermittent Malfunctions Across Several Devices,Incident,Technical Support,low,en,51,Network,Hardware,Performance,Disruption
+Soforthilfe benÃ¶tigt: Abrechnungsprobleme bei mehreren AbonnementverlÃ¤ngerungen,Incident,Billing and Payments,high,de,51,Billing,Payment,Subscription,Refund
+Help Needed for Touchscreen Display Problems,Problem,Product Support,medium,en,51,Hardware,Software,Bug,Performance
+Critical: Agile Team Event Affecting SaaS Service Efficiency,Incident,General Inquiry,low,en,51,Performance,Disruption,Outage,Tech Support
+Connectivity Problems Across Multiple Devices,Incident,Technical Support,high,en,51,Network,Disruption,IT,Tech Support
+Immediate Attention Needed: Service Interruption in Live Environment,Incident,Technical Support,high,en,51,Outage,Disruption,Service,Maintenance
+Reported Device Connectivity Difficulties,Problem,IT Support,high,en,51,Network,Disruption,Connectivity,Tech Support
+Problems with Refunds and Swaps,Incident,Returns and Exchanges,low,en,51,Refund,Return,Swap,Customer Support
+Immediate Help Needed for Wi-Fi Mesh Network Connectivity Issues,Problem,Customer Service,high,en,51,Network,Hardware,Disruption,Tech Support
+Immediate Help Needed with Wi-Fi Mesh Connectivity Issues,Problem,Customer Service,high,en,51,Network,Performance,Disruption,Tech Support
+Connectivity Issue with Multiple Devices,Incident,Technical Support,high,de,51,Network,Disruption,Connectivity,Tech Support
+Login Problem on Windows 10,Incident,IT Support,medium,en,51,Login,Windows,Tech Support,Security
+Query About Recent Invoice Payment Fees,Request,Billing and Payments,medium,en,51,Billing,Payment,Invoice,Refund
+Network Notification,Incident,Technical Support,medium,en,51,Network,Security,Alert,Disruption
+Critical Service Downtime,Change,Service Outages and Maintenance,high,en,51,Disruption,Outage,Service,Hardware
+Issue Diagnosis,Problem,Technical Support,low,en,51,Performance,Outage,Disruption,IT
+Einhaltung von Vorschriften,Change,Customer Service,low,de,51,Compliance,Security,IT,Medical Product
+Urgent Inquiry into Cloud SaaS Platform Outage,Problem,Product Support,high,en,51,Outage,Performance,Disruption,Recovery
+Connectivity Disruption,Incident,Technical Support,high,en,51,Network,Disruption,Outage,IT
+Report of System Incident,Incident,Technical Support,medium,en,51,Outage,Disruption,Performance,Recovery
+Payment Billing Details,Request,Billing and Payments,high,en,51,Billing,Payment,Order,Refund
+Request for Network Security Authorization,Change,General Inquiry,high,en,51,Network,Security,IT,Tech Support
+Immediate Support Requested for Cloud-Native Outage,Problem,Customer Service,high,en,51,Outage,Cloud-Native,Performance,Support
+Benachrichtigung Ã¼ber GerÃ¤teverbindungsprobleme,Problem,IT Support,high,de,51,Network,Disruption,Alert,IT
+Inquiry Regarding Product Exchange Procedures,Request,Returns and Exchanges,medium,de,51,Product,Return,Refund,Policy
+Abstimmung der DatenÃ¼bertragung,Problem,IT Support,high,de,51,Performance,Software,Hardware,Troubleshooting
+Several Problems with Multiple Devices,Problem,Technical Support,low,en,51,Network,Hardware,Performance,Tech Support
+Verbindungsproblem,Incident,Technical Support,medium,de,51,Network,Disruption,Hardware,Tech Support
+Guidelines for Incorporating Python Models,Request,Technical Support,high,de,51,Feature,Performance,Automation,Analytics
+Internet Connectivity Interruption,Incident,Service Outages and Maintenance,high,en,51,Network,Outage,Disruption,IT
+Question About Integration Procedures for Microsoft Office 2021 SaaS Platform,Request,IT Support,low,en,51,Product,Feature,Security,IT
+Eiltige StÃ¶rungen im Hardware-Service,Incident,Technical Support,medium,de,51,Hardware,Disruption,Security,Network
+Query Regarding Account Management Center Integration,Request,Customer Service,medium,en,51,Account,Integration,Feature,Collaboration
+Inquiry Regarding Marketing Services,Request,Product Support,medium,de,51,Sales,Feedback,Marketing,Service
+Request for Certification Documentation,Request,Sales and Pre-Sales,low,en,51,Documentation,Security,Product,Feature
+Incident Involving Devices,Incident,Technical Support,high,de,51,Bug,Outage,Hardware,Network
+Problems Linking Microsoft Word VPN Router,Incident,General Inquiry,high,en,51,Network,VPN,Hardware,Disruption
+Critical Service Disruption,Change,Service Outages and Maintenance,high,en,51,Disruption,Outage,Service,Healthcare
+Immediate Attention Needed: Centralized Account Management System Out of Service,Incident,Technical Support,high,en,51,Outage,Disruption,Security,Account
+Problems with RAID Controller Device Connectivity,Incident,Product Support,medium,en,51,Hardware,RAID,Connectivity,Disruption
+Service interruption impacting medical systems,Incident,Service Outages and Maintenance,medium,de,51,Outage,Disruption,Maintenance,Recovery
+Wireless Internet Connection Problems,Problem,Product Support,medium,en,51,Network,Performance,Disruption,Outage
+VerfÃ¼gbarkeitsvorfall,Problem,IT Support,medium,de,51,Outage,Disruption,Performance,Cloud
+Inquiry for In-Depth Service Offerings Details,Request,Product Support,medium,en,51,Product,Feature,Documentation,Feedback
+Analytics System Disruption,Incident,Technical Support,medium,en,51,Disruption,Outage,Performance,Support
+Request for Complete Product Support Documentation,Request,Product Support,high,en,51,Documentation,Support,Product,Feedback
+QNAP NAS Connection Problems,Problem,Product Support,high,en,51,Network,Hardware,Disruption,Tech Support
+Surface Pro Sporadische Abschaltproblematik,Problem,Technical Support,medium,de,51,Hardware,Performance,Bug,Troubleshooting
+Service Interruption,Problem,Technical Support,high,en,51,Outage,Disruption,Recovery,Security
+Anfrage,Request,Customer Service,high,de,51,Customer Service,Product,Inquiry,Feedback
+Request for a Comprehensive Overview of Marketing Services,Request,Customer Service,medium,en,51,Marketing,Feedback,Sales,Lead
+Inquiry About Platform Features,Request,Technical Support,high,en,51,Feature,Analytics,Data Integration,Market Analysis
+"Akuter Vorfall, mehrere GerÃ¤te und Plattformen betroffen",Incident,Product Support,high,de,51,Outage,Disruption,Network,Hardware
+Urgent Hardware and Software Update Required,Change,Service Outages and Maintenance,medium,en,51,Hardware,Software,Disruption,Tech Support
+"Dringender Sicherheitszwischenfall, Schnittstellen im Gesundheitswesen betroffen",Incident,Technical Support,high,de,51,Security,Network,Outage,Disruption
+Multiple Equipment Failures,Incident,IT Support,medium,en,51,Hardware,Disruption,Equipment,Technical Support
+Request for SaaS Platform Architecture Details,Request,Customer Service,high,de,51,Product,Security,Performance,Architecture
+Alert of Unauthorized Entry,Problem,Customer Service,low,en,51,Security,Alert,Network,Tech Support
+Integrationsprobleme mit GerÃ¤ten bei EMR-Systemen,Problem,Customer Service,low,de,51,Bug,Integration,Hardware,Security
+Questions About Integration Resources,Request,Customer Service,medium,en,51,Documentation,Support,Platform,External Device
+Immediate Help Needed: Microservices Unreliability,Problem,Product Support,medium,en,51,Bug,Disruption,Outage,Performance
+Agile Team Framework,Request,Customer Service,medium,en,51,Feature,Documentation,Feedback,IT
+Revise Support Procedures,Change,IT Support,medium,en,51,Documentation,IT,Tech Support,Security
+Immediate Help Needed for Microservices Unreliability,Problem,Product Support,medium,en,51,Performance,Disruption,Outage,Tech Support
+Anfrage zur Verbindung des zentralen Kampagnensteuerungssystems,Change,Product Support,high,de,51,IT,Tech Support,Performance,Feature
+Incident SOC- DevSecOps Monitoring Alert,Incident,Human Resources,low,de,51,Security,Monitoring,Network,Alert
+Widespread Service Disruption Affecting Multiple Platforms,Incident,Service Outages and Maintenance,high,en,51,Outage,Disruption,Performance,Network
+Anfrage zu Investitionsstrategien,Request,General Inquiry,low,de,51,Investment Strategy,Financial Planning,Risk Management,Advisory
+Coordination of Marketing Processes with New Hardware Integration,Request,IT Support,high,de,51,Product,Hardware,IT,Tech Support
+VPN Connection Issue,Incident,Product Support,medium,en,51,Network,VPN,Connectivity,Tech Support
+Immediate Help Needed for Billing Error,Problem,Billing and Payments,medium,en,51,Billing,Account,Refund,Feedback
+Immediate Action Required: Simultaneous Outage Event,Incident,Product Support,high,en,51,Outage,Security,Virus,Disruption
+Urgent Security Breach Impacting EMR Integration Platform,Problem,Product Support,medium,en,51,Security,Bug,Outage,Disruption
+Anfrage zu Sicherheits- und Compliance-Updates fÃ¼r Systeme,Change,Product Support,high,de,51,Security,Compliance,IT,Tech Support
+System Disruption,Problem,Service Outages and Maintenance,high,en,51,Disruption,Network,Connectivity,IT
+Anliegen hinsichtlich kÃ¼rzlicher Bestellung,Incident,Returns and Exchanges,medium,de,51,Order,Shipment,Return,Product
+Sicherheitslage,Incident,IT Support,medium,de,51,Security,Outage,Disruption,Investigation
+Inquiry About Product Feature Differences,Request,Customer Service,medium,en,51,Feature,Product,Security,IT
+Cloud SaaS Sales Platform Incident Report,Incident,Sales and Pre-Sales,medium,en,51,Outage,Performance,Security,IT
+Maintenance for Configuration Updates,Change,Service Outages and Maintenance,high,en,51,Maintenance,Network,Firewall,System
+Ãœbersicht der SicherheitsmaÃŸnahmen im Betrieb,Request,Customer Service,high,de,51,Security,Documentation,IT,Tech Support
+Immediate Attention Needed: Cloud-Native SaaS Service Downtime Issue,Incident,Product Support,medium,en,51,Outage,Disruption,Cloud-Native,SaaS
+System Outages,Incident,Product Support,medium,de,51,Outage,Disruption,Hardware,Software
+Question Regarding Account Management Center Integration,Request,Customer Service,medium,en,51,Account,Feedback,IT,Tech Support
+Eilige Mitteilung: Fehler bei der DatenverschlÃ¼sselung der Crucial SSD,Incident,Product Support,low,de,51,Bug,Security,Hardware,Firmware
+Incorporating New Marketing Plan,Problem,General Inquiry,low,en,51,Marketing,Feedback,Documentation,Tech Support
+Invoicing Issue,Incident,Billing and Payments,medium,en,51,Billing,Payment,Refund,Disruption
+Eiltiges Anliegen: Ausfall der zentralen Kontoverwaltungsplattform,Incident,Customer Service,medium,de,51,Outage,Disruption,Security,IT
+Inquiry Regarding Marketing Service Offerings,Request,Technical Support,medium,en,51,Sales,Lead,Feedback,Product
+Inquiry for Comprehensive Details on the Billing Procedure,Request,Billing and Payments,low,en,51,Billing,Payment,Documentation,Feedback
+Defekte Funktionen,Incident,Technical Support,medium,de,51,Bug,Network,Performance,Disruption
+Anfrage zu Investmentstrategien,Request,General Inquiry,low,de,51,Finance,Investment,Strategy,Advisory
+Critical Problem with Automated Rebalancing System,Problem,Product Support,low,en,51,Bug,Performance,Security,Account
+Challenges with Returns and Swap Procedures,Incident,Returns and Exchanges,high,en,51,Return,Shipment,Customer Service,Feedback
+Urgent Report of Security Breach,Incident,Product Support,high,en,51,Security,Virus,Network,Disruption
+Problem mit Abrechnungsdifferenzen,Problem,Billing and Payments,medium,de,51,Billing,Refund,Product,Discrepancy
+Request for Cloud-Native SaaS Architecture Operational Strategies,Request,Customer Service,medium,de,51,Product,Feature,Documentation,IT
+Service Interruptions,Incident,Service Outages and Maintenance,high,en,51,Disruption,Outage,Performance,IT
+Peripheral Device Issues,Incident,IT Support,medium,de,51,Hardware,Network,Performance,Bug
+Intermittent Failures Across Multiple Products Following Pipeline Update,Incident,IT Support,medium,de,51,Bug,Outage,Performance,Disruption
+Failure in High-Intensity Projector Automation Process,Incident,Technical Support,high,en,51,Bug,Hardware,Performance,Disruption
+Performance Concerns on Cloud SaaS Service,Incident,IT Support,low,en,51,Performance,Outage,Disruption,Support
+Eilt: VerfÃ¼gbarkeitsstÃ¶rung bei Cloud-basiertem SaaS-Service,Incident,Product Support,medium,de,51,Outage,Disruption,Performance,Cloud
+Billing Inquiry,Request,Billing and Payments,low,de,51,Billing,Refund,Payment,Invoice
+Query Regarding ESG Data Analysis,Request,Customer Service,medium,en,51,Feedback,Data,Feature,IT
+Immediate Attention Needed: Connectivity Problems with Monitoring Devices Disrupting Analytics Processes,Incident,IT Support,medium,en,51,Network,Disruption,Monitoring,Tech Support
+Request for Updates on SaaS Platform Process Enhancements,Change,Product Support,medium,en,51,Feature,Security,Performance,IT
+Network Connectivity Problem,Incident,Technical Support,medium,en,51,Network,Connectivity,Security,Disruption
+Revise of Security Protocols for Health Data Integration,Change,Technical Support,high,de,51,Security,IT,Tech Support,Documentation
+Issue with Synchronization in Account Management Center,Incident,Technical Support,high,de,51,Account,Issue,Synchronization,Tech Support
+Inquiry About Product Swap Procedures,Request,Returns and Exchanges,medium,en,51,Product,Feature,Documentation,Support
+Request for a Detailed Summary of Product Features,Request,Product Support,medium,en,51,Product,Documentation,Feature,Feedback
+Human Resources Issue,Incident,Human Resources,high,en,51,HR,Employee,Disruption,Organizational Change
+Excel 2021 Formula Error Notification,Incident,Technical Support,high,en,51,Bug,Performance,Compatibility,Feature
+Immediate Attention Needed: Agile Team Incident Affecting SaaS System Performance,Incident,General Inquiry,low,en,51,Performance,Outage,Disruption,Tech Support
+Questions Regarding Cloud-Based SaaS Architecture and Operational Tactics,Request,Customer Service,medium,en,51,Product,Feature,Documentation,Feedback
+Incident on Cloud-Native SaaS Platform,Incident,Product Support,high,de,51,Outage,Performance,Disruption,Recovery
+Python Machine Learning Insights,Request,Customer Service,low,en,51,Feature,Data,Analytics,Machine Learning
+Problem mit automatisiertem Neugewichts-Analysetool,Incident,Customer Service,medium,de,51,Bug,Performance,Feature,Documentation
+Urgent: Security Breach Related to EMR/PACS Systems,Incident,Product Support,high,en,51,Security,Virus,Outage,Disruption
+Service Revision,Change,Customer Service,low,en,51,Account,Feedback,Service,Documentation
+Interdepartmental Coordination Difficulties,Incident,Customer Service,low,en,51,Communication,Workflow,Coordination,Disruption
+Problem with Agile Team Collaboration Tools,Incident,Product Support,low,en,51,Bug,Outage,Disruption,Tech Support
+Resolving Bose Headset and QNAP NAS Connectivity Problem,Incident,Technical Support,medium,en,51,Connectivity,Hardware,Network,Tech Support
+Synchronization Problems,Incident,Technical Support,high,en,51,Performance,Disruption,Outage,Tech Support
+Immediate Attention Needed: Multiple Hardware and Software Malfunctions,Incident,Technical Support,high,en,51,Hardware,Software,Crash,Disruption
+Anfrage nach umfassenden Details zu verfÃ¼gbaren Produkten und Services,Request,Technical Support,high,de,51,Product,Service,Documentation,Feedback
+Assistance with Secure Integration of QuickBooks Online,Request,IT Support,high,en,51,Security,IT,Tech Support,Integration
+Critical: Cloud Infrastructure Disruption Impacting SaaS Offerings,Incident,Technical Support,high,en,51,Disruption,Outage,Cloud,SaaS
+Alert Regarding Interruptions in Microservices Deployment,Incident,Customer Service,low,en,51,Performance,Disruption,Outage,Tech Support
+Billing Statement,Problem,Billing and Payments,low,en,51,Billing,Hardware,Issue,Investigation
+Agile Organizational Framework,Request,Customer Service,medium,de,51,Product,Documentation,Feedback,IT
+Anfrage zu bewÃ¤hrten Methoden fÃ¼r Integration,Request,Product Support,low,de,51,Feature,Integration,Hardware,Documentation
+Malfunction in Product Features,Incident,Product Support,medium,en,51,Bug,Performance,Disruption,Outage
+Various Equipment Malfunctions Disrupting Operations,Incident,Product Support,high,en,51,Hardware,Network,Disruption,Maintenance
+Multiple Critical Devices Causing Network Issues,Incident,Technical Support,high,de,51,Network,Disruption,Hardware,Tech Support
+Frequent Loss of Connection When Signing into Chromebook,Problem,Product Support,medium,en,51,Network,Disruption,Performance,Tech Support
+Immediate Help Needed for Video Conference System Connectivity Issues,Incident,Customer Service,medium,en,51,Network,Connectivity,Hardware,Tech Support
+Immediate Attention Needed: Problems with Evernote Disrupting Critical Tasks,Incident,Technical Support,high,en,51,Bug,Disruption,Performance,Tech Support
+Immediate Attention Needed: Disruption in Service Affecting Several Devices,Incident,Service Outages and Maintenance,high,en,51,Disruption,Network,Hardware,Tech Support
+Notification of Technical Difficulties,Incident,Technical Support,high,en,51,Network,Disruption,Hardware,Tech Support
+Anfrage zu umfassenden Dienstleistungen einer Marketing-Agentur,Request,Sales and Pre-Sales,low,de,51,Sales,Feedback,Marketing,Service
+Request for Comprehensive Platform Infrastructure Details,Request,Sales and Pre-Sales,low,en,51,Documentation,IT,Tech Support,Feedback
+Guidelines for Returns and Replacements,Request,Returns and Exchanges,medium,en,51,Return,Replacement,Product,Policy
+Dringend: Schwierigkeiten beim Zugriff auf Outlook-E-Mails,Incident,Technical Support,high,de,51,Outlook,Email,Network,Issue
+Dringende VerbindungsstÃ¶rungen bei GerÃ¤ten beeintrÃ¤chtigen BÃ¼roablÃ¤ufe,Incident,Technical Support,low,de,51,Network,Disruption,Performance,IT
+Update der IT-Support-Workflows,Change,IT Support,medium,de,51,IT,Tech Support,Workflow,Security
+Invoicing,Incident,Billing and Payments,high,en,51,Billing,Payment,Account,Refund
+Query About All-in-One Marketing Solutions,Request,Product Support,high,en,51,Marketing,Feature,Feedback,Performance
+KlÃ¤rung,Problem,Customer Service,low,de,51,Customer Support,Issue Resolution,Technical Support,Feedback
+Zugang zum Account-Management-Dashboard mÃ¶glich?,Incident,Technical Support,high,de,51,Account,Login,Security,Tech Support
+Billing Question,Problem,Billing and Payments,low,en,51,Billing,Payment,Refund,Disruption
+Systemausfall,Incident,Technical Support,high,de,51,Outage,Disruption,Recovery,System
+Request for ESG Analysis Tools,Request,Customer Service,medium,de,51,Feature,Product,Documentation,Feedback
+Security Recommendations,Request,Technical Support,medium,en,51,Security,IT,Tech Support,Documentation
+Network Connectivity Interruption Problem,Incident,Technical Support,high,en,51,Network,Disruption,Outage,Hardware
+Synchronization Difficulties,Incident,Technical Support,high,de,51,Synchronization,Performance,Disruption,IT
+Subscription Billing Concern,Incident,Billing and Payments,low,en,51,Billing,Account,Payment,Refund
+Security Improvement Initiative,Change,Product Support,high,en,51,Security,IT,Tech Support,Compliance
+Rebalancing Concern,Incident,Customer Service,medium,en,51,Performance,Bug,Feature,Analytics
+Immediate Attention Needed: Persistent Switch Connectivity Problems,Problem,Customer Service,low,en,51,Network,Disruption,Hardware,Tech Support
+Summary,Request,Sales and Pre-Sales,medium,de,51,Customer Service,Feedback,Marketing,Service Quality
+Cloud Service Disruption,Incident,Customer Service,medium,en,51,Disruption,Outage,Cloud,Infrastructure
+Python-Excel-Integration,Request,Product Support,high,de,51,Feature,Performance,Automation,IT
+Dringende UnterstÃ¼tzung fÃ¼r das Account Management Center erforderlich,Problem,Product Support,medium,de,51,Account,Tech Support,Bug,Performance
+Display Connection Issue with Monitor,Incident,Customer Service,low,de,51,Network,Hardware,Display,Troubleshooting
+Hardware Malfunction Reports,Incident,Technical Support,medium,en,51,Hardware,Network,Disruption,Tech Support
+Dringende VerbindungsstÃ¶rungen bei GerÃ¤ten beeintrÃ¤chtigen den Arbeitsfluss im gesamten BÃ¼ro,Incident,Technical Support,low,de,51,Network,Disruption,Performance,IT
+Connectivity Problem with Microsoft Surface Pro 8,Incident,Technical Support,medium,en,51,Network,Connectivity,Hardware,Tech Support
+Mehrere SystemstÃ¶rungen gemeldet,Incident,Service Outages and Maintenance,high,de,51,Outage,Disruption,Network,Hardware
+Problem with SaaS Platform Features,Incident,Product Support,medium,en,51,Feature,Performance,Bug,Dashboard
+Billing Issue,Incident,Billing and Payments,medium,de,51,Billing,Payment,Refund,Issue
+Dringende UnterstÃ¼tzung bei Problemen mit der Cloud-Plattform des Agile Teams benÃ¶tigt,Problem,Customer Service,high,de,51,Network,Disruption,Performance,Tech Support
+Improvement Request,Change,Product Support,low,en,51,Feature,Security,Maintenance,Product
+Login Problems with Windows 10,Incident,IT Support,medium,en,51,Login,Tech Support,Windows,Performance
+Inquiry for In-Depth Platform Architecture Details,Request,Technical Support,low,en,51,Product,Documentation,Feedback,IT
+Immediate Attention Needed: Multiple Device Failures Disrupting Functionality,Incident,Product Support,high,en,51,Hardware,Software,Disruption,Outage
+Difficulties in Coordinating Agile Teams,Problem,Customer Service,medium,en,51,Agile,Coordination,Communication,Project Management
+Billing Concerns for Multiple Subscriptions,Incident,Billing and Payments,low,en,51,Billing,Refund,Payment,Account
+Microservices Deployment Issue,Incident,Technical Support,medium,en,51,Bug,Performance,Outage,Disruption
+Hinweise zu RÃ¼ckgaben und Umtausch,Request,Returns and Exchanges,medium,de,51,Return,Refund,Product,Customer Service
+Microsoft Surface Pro 8 Connectivity Issue,Incident,Technical Support,medium,de,51,Network,Connectivity,Hardware,Tech Support
+Problem bei Produktretoure,Incident,Returns and Exchanges,high,de,51,Product,Return,Software,Hardware
+Details zu Integrations- und Supportprozessen,Request,IT Support,high,de,51,Feature,IT,Tech Support,Performance
+Security Protocols for Product Compatibility,Request,Sales and Pre-Sales,medium,en,51,Security,Product,Documentation,Tech Support
+Multiple Equipment Malfunctions Reported,Incident,Technical Support,high,en,51,Hardware,Disruption,Equipment,Tech Support
+Intermittent Network Connection Problems Continue,Problem,Technical Support,high,en,51,Network,Disruption,Performance,Troubleshooting
+Request for Architectural Specifications of the SaaS Platform,Request,Customer Service,low,de,51,Product,Feature,IT,Tech Support
+Discrepancies in Billing Across Multiple Items,Incident,Billing and Payments,medium,de,51,Billing,Account,Software,Discrepancy
+Dienstunterbrechung,Problem,Customer Service,high,de,51,Outage,Disruption,Performance,Network
+Anfrage zur UnterstÃ¼tzung und KlÃ¤rung des Support-Falls,Incident,General Inquiry,medium,de,51,Support,Tech Support,Issue,Assistance
+Request for Clarification on Billing and Payment Procedures,Request,Billing and Payments,medium,en,51,Billing,Payment,Account,Clarification
