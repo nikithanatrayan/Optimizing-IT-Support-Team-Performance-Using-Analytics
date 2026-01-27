@@ -44,5 +44,7 @@ Resolution date : Date and Time of the ticket resolved.
    
 ## Tools Used
    Data Handling: Python (pandas,numpy)
+   
    Visualization: PowerBI
+   
    Documentation: Github repository
