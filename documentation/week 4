@@ -1,7 +1,7 @@
-week 4
-Live data import - for real time updates
-learned about importing live data in powerBI using get data option
-allows data to be fetched directly from the web using urls 
+## week 4
+##Live data import - for real time updates
+  learned about importing live data in powerBI using get data option
+  allows data to be fetched directly from the web using urls 
 
 challenges:
 not all websites allow data to import into powerBI
