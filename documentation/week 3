@@ -1,25 +1,26 @@
 week 3
 
-EDA(exploratory data anaylsis)
+EDA(Exploratory Data Anaylsis)
+
 There are 4 steps to follow:
-1.transform,clean the data
-   volume of data
-   structure of the data
-   how many category,number of rows and colunms
-   where is the data form
-   understand each and every metric
-2.distribution(outliers)
-   identify the outliers-extreme high and extreme low values
-3.comparisons
-  to get valuable insights
-4.relationship
-  how change in one category effect the other.
+1.Transform,clean the data
+   Volume of data
+   Structure of the data
+   How many category,number of rows and colunms?
+   Where is the data from ?
+   Understand each and every metric
+2.Distribution(outliers)
+   Identify the outliers-extreme high and extreme low values
+3.Comparisons
+  To get valuable insights
+4.Relationship
+  How change in one category effect the other.
 
 
 Task:Understand a netflix dataset
 
 1.Which genre is dominant or highest?
 2.Has mature content increased over time?
-3. Which year did Netflix had most content added?
-4. Proportion of Movie vs TV show.
+3.Which year did Netflix had most content added?
+4.Proportion of Movie vs TV show.
 5.Are new TV shows longer or shorter in terms of seasons.
