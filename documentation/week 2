@@ -1,11 +1,13 @@
- Week 2
-data cleaning with python
-difference between python and powerBi
-Python: automation(can reuse the code)
-PowerBI: visualization
-string:set of characters ,any number which are not used in computation also
+Week 2
+
+Data cleaning with Python 
+Difference between Python and PowerBi
+Python: Automation(can reuse the code)
+PowerBI: Visualization
+
+String:Set of characters ,any number which are not used in computation also
 example: phone number is considered as a text
 few phone numbers start with zero,when loading the data zero vanishes
 
-learned about :
+Learned about :
 libraries,dataframe,drop duplicates,strip,standradisation of Y/N,Nan,N/a ,etc
