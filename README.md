@@ -39,9 +39,9 @@ Resolution date : Date and Time of the ticket resolved.
 
   
 ## Recommendations
+   Live Data Integration:This would enable real time dashboards,automatic updates and continuous performance monitoring.
 
 
-   
 ## Tools Used
    Data Handling: Python (pandas,numpy)
    
