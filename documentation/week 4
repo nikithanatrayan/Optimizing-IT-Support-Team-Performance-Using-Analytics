@@ -1,0 +1,27 @@
+week 4
+Live data import - for real time updates
+learned about importing live data in powerBI using get data option
+allows data to be fetched directly from the web using urls 
+
+challenges:
+not all websites allow data to import into powerBI
+authentication issues 
+login requirements
+data privacy and security restrictions
+
+powerBI:get data->web-.paste url,choose basic 
+
+understanding APIs
+acts as a communication bridge
+API keys are required to access live data
+
+zendesk
+it is a customer support and ticket management system
+used by company to collect data
+CRM management system
+
+ETL pipeline 
+helps to automate data process
+ensures clean and consistent data
+
+Task:create a github reposistory
