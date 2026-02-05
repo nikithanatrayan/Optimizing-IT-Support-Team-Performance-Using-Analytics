@@ -5,8 +5,7 @@
    Dataset: IT support ticket dataset
    
    Source: kaggle
-   
-   Scale: Approximately 8,000+ records with multiple attributes
+
 
    Dataset description:It contains records of IT support tickets raised by the users.it includes information about the ticket lifecycle like creation,priority,category,resolution details ,etc.The dataset is designed to support analysis of ticket trends,issue pattern and service performance.
    
