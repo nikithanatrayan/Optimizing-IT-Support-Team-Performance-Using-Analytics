@@ -1,13 +1,24 @@
 Week 1
+
 Started off the project by learning importance of data cleaning.
-Raw data contains missing values,duplicates,null,etc.
-Data cleaning helps in better visualization and analysis.
+Raw datasets contains missing values,duplicates,null,etc.
+
+
+Data cleaning ensures:
+- Accurate analysis  
+- Reliable visualizations  
+- Better decision making
+
 The process include :
-    Collecting the data(excel,csv,databases),
-    Transform(extracting the data and clean it),
-    Visualize
-Python : To clean the data ,automation
-PowerBI: Visualize
+   1. Data Collection: Collecting the data(excel,csv,databases).
+   2. Data Transformation: Transform(extracting the data and clean it).
+   3. Data Visualization: Visualize.
+
+
+Tools 
+-Python : To clean the data ,automation
+-PowerBI: Visualize,data transformation
+
 Learned about the power query
 Common cleaning steps include:
   -setting correct data types
@@ -18,12 +29,12 @@ Common cleaning steps include:
   -remove duplicates
 
 Views in PowerBI:
-1.Table view: to check the data 
-2.Model view: to understand the relationships
-3.Report view: to create visualizations
+1.Table view: To check the data,displays the actual data stored in table after cleaning. 
+2.Model view: To understand the relationships,manage realtionships and schema design shows how tables are connected.
+3.Report view: To create visualizations and understand data visually.
 
 
-Reports (static) and Dashboards(interactive)
+Reports (static analysis) and Dashboards(interactive monitoring)
 Time series: Use Line chart
 
 
