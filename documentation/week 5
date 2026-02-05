@@ -1,0 +1,61 @@
+week 5 
+
+KPI(Key Performance Indicator
+-Summarize complex data into a single insight
+-Used in dashboards widely
+-Are numeric values
+
+
+Types of data with respect to PowerBI
+
+1.Categorical data - Can't perform mathematical opertions
+                   - For identification,grouping,comparing
+
+2.Numerical data  - Can perform mathematical opertions
+                  - For measure,averages,percentage,trends
+
+3.Time based data - Data recorded over time
+                  - shows growth,decline
+
+"TYPE OF THE DATA DECIDES THE TYPE OF CHARTS TO USE"
+
+Bar chart:Are used to compare categories.
+
+Pie chart:Shows the proportion of a whole.
+          All slices together equals 100%.
+          Best to used only with 5-6 categories.
+
+Cards: In PowerBI displays a single value clearly.
+
+Line chart:Ideal for time based data.
+           They show increase,decrease over time.
+           Identify pattern,seasonality etc,
+
+Card is a KPI:
+- one key number
+- that number represent performance
+- easy to understand at a glance
+
+
+Data Modeling: The process of organizing tables and defining relationships between them.
+
+Fact table: It contains data that is used for analysis.
+            It usually contains foreign keys that connect to dimension table.
+            They are generally large and grow overtime.
+
+Dimension table:It contains information that provide context to the fact table.
+                They are usually smaller than fact tables.
+
+Primary key: Is a column with unique and non null values that uniquely identifies each row in a table.
+
+Foreign key: Is a column that reference the primary key of the another table to create relationships.
+
+Star Schema: It is the most recommended data modeling structure in PowerBI.
+             It consists of one central fact table connected to multiple dimension table.
+             The structure is simple,easy to understand.
+
+One to Many: One records in one table is connected to many records in another table.
+Many to One: Many records in one table is connected to one record in another table.
+Many to Many: Many records in one table is connected to many record in another table.
+One to One: One records in one table is connected to one record in another table.
+
