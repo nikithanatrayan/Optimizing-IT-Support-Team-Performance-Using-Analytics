@@ -1,13 +1,25 @@
 Week 2
 
+We focused on applying data cleaning techniques using Python and comparing Python with Power BI for data preparation and visualization tasks.
+
 Data cleaning with Python 
+- Used for automation 
+- Suitable for large datasets 
+
 Difference between Python and PowerBi
 Python: Automation(can reuse the code)
 PowerBI: Visualization
 
 String:Set of characters ,any number which are not used in computation also
-example: phone number is considered as a text
-few phone numbers start with zero,when loading the data zero vanishes
+Example: phone number is considered as a text
+Few phone numbers start with zero,when loading the data zero vanishes
 
 Learned about :
-libraries,dataframe,drop duplicates,strip,standradisation of Y/N,Nan,N/a ,etc
+libraries,dataframe,drop duplicates,strip,standradisation of Y/N,Nan,N/a ,etc.
+
+Data Cleaning Operations in Python
+- Loading dataset  
+- Handling missing values  
+- Dropping duplicates  
+- Formatting text columns  
+- Standardizing categorical values  
