@@ -1,0 +1,45 @@
+week 6
+
+We focused more on DAX functions
+DAX - The brain of PowerBI
+    - To summarise data for better view
+    - For implementing DAX function ,we need tables with relation
+    - Used to create measures
+    - Used to perform calculations
+
+Measures in Power BI
+       -Are created using DAX
+       -Calculate measurable (numeric) values
+       -Are not part of the table
+
+Creating a Measure
+      - Use New Measure option
+      - Measures are written using DAX expressions
+
+Why to Use Measures
+         - Allow better control over calculations
+         - Improve report performance
+         - Can be reused across multiple visuals
+
+Types of Measures
+        - Base measure : Created from a column from the table.
+        - composite measure : Created using two different measures.
+
+CALCULATE Function
+          - Allows applying filters inside a measure
+          - Used to calculate values under conditions
+          -Is one of the most important DAX functions
+
+CALCULATE Syntax
+     CALCULATE(expression,[filter1],[filter2])
+
+Slicers
+    - Are interactive filters
+    = Used in report view
+    - Allow users to select values
+
+Conditional Logic is used for decision making
+IF : Executes a block of logic only when the condition is TRUE.
+IF ELSE: Executes one block when the condition is TRUE, and executes the ELSE block when the condition is FALSE.
+Nested IF: Uses multiple IF conditions, checked one after another, to handle multiple scenarios.
+
