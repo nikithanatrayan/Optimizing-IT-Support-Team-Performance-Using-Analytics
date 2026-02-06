@@ -26,6 +26,19 @@ Tag 1 – Tag 4:Categorical labels describing the issue in more detail (e.g., Se
 
 
 ## Key Performance Indicators (KPIs)
+The following KPIs were used to evaluate and optimize IT support performance:
+
+Number of tickets by priority level
+
+Ticket distribution by incident type
+
+Issue frequency by tag category
+
+Language wise ticket volume
+
+Version wise ticket occurrence
+
+High priority incident concentration
 
 
 
