@@ -1,0 +1,72 @@
+Week 7 & 8 
+
+Data Visualization & Storytelling
+
+We focused on how to design effective and meaningful dashboards that communicate insights clearly to both technical and non-technical stakeholders.
+
+Visualization:
+   Visualization is not decorative — it must interpret data clearly.
+   Use consistent colors (each color should represent a specific category).
+   Always compare one category with another for better understanding.
+   Measures and columns serve different purposes and must be used appropriately.
+   Choose visuals based on the question you are trying to answer.
+
+Choosing the Right Visual:
+   Bar chart → Category comparison
+   Histogram → Data distribution and spread
+   Box plot → Identify range, quartiles, and extreme values
+   Pie chart → Proportion (use minimally)
+   Time series chart → Trend over time
+
+
+Box plot components:
+   Lower limit (min)
+   Upper limit (max)
+   Quartiles (25%, 50%, 75%)
+   Whiskers for range
+   Helps detect extreme values (outliers)
+
+Dashboard Planning
+Before building a dashboard:
+1. Decide how many dashboards you need.
+2. Define the question each dashboard answers.
+3. Keep dashboards focused and specific.
+
+Each dashboard should:
+  Have a clear and meaningful title (first impression for stakeholders).
+  Provide a quick glance overview.
+  Show how the data works together.
+
+Layout & Structure
+  Divide the dashboard into quadrants .
+  Maintain proper alignment and spacing.
+  Start with the most important visual (usually KPI cards).
+  Place key insights at the center/top for visibility.
+
+
+KPI Cards
+  2–3 KPI cards only
+  Show most valuable insights
+  Simple and easy to read
+  Bold and clear
+
+
+Design & Formatting
+  Use the format pane to style visuals.
+  Keep the design minimal and clean.
+  Add legends where necessary.
+  Use interactive slicers for better exploration.
+  Can enhance appearance by:
+      Adjusting visual formatting
+      Changing canvas background
+      Applying a consistent theme
+
+
+ Art of Storytelling with Data:
+    Follow a flow from one visual to another.
+    Maintain connection between visuals.
+    Do not break the narrative sequence.
+    Arrange content in a meaningful order.
+
+
+
