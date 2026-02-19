@@ -1,4 +1,4 @@
-## Guys you have to create fork to add or create the file
+## Guys you have to create fork to create the file
 ## 🎓 Basic Information
 - **Name:** Kunga Legjung  
 - **College:** Dayanand Sagar College of Engineering  
