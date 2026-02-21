@@ -15,11 +15,11 @@ Organizations often lack visibility into:
    
 This project aims to:
 
-  --> Measure support performance using key KPIs
+  -> Measure support performance using key KPIs
 
-   -->Identify recurring issue patterns
+  ->Identify recurring issue patterns
 
-  --> Support data-driven decision making
+  -> Support data-driven decision making
   
 ## 🔹 Dataset Description
 
@@ -70,15 +70,15 @@ The Customer Support Ticket Dataset is a dataset that includes customer support 
 
 The following KPIs were used to evaluate and optimize support performance:
 
-  -->Total Number of Tickets : The total count of all support requests submitted by customers.
+  ->Total Number of Tickets : The total count of all support requests submitted by customers.
 
-  -->Average First Response Time : The average time a customer waits before receiving their very first reply from a support agent.
+  ->Average First Response Time : The average time a customer waits before receiving their very first reply from a support agent.
 
-  -->Average Response Time : The average time taken by agents to reply to customer messages throughout the duration of a ticket.
+  ->Average Response Time : The average time taken by agents to reply to customer messages throughout the duration of a ticket.
 
-  -->High  Priority Ticket : The count of urgent issues that require immediate attention to prevent major customer dissatisfaction.
+  ->High  Priority Ticket : The count of urgent issues that require immediate attention to prevent major customer dissatisfaction.
 
-  -->Tickets per Customer : The average number of times a single customer has reached out for support, indicating how often they face issues.
+  ->Tickets per Customer : The average number of times a single customer has reached out for support, indicating how often they face issues.
 
 
    
@@ -120,15 +120,15 @@ The following KPIs were used to evaluate and optimize support performance:
   
 ## 🔹 Key Insights
 
-   -->The GoPro Hero has the highest ticket volume.
+   ->The GoPro Hero has the highest ticket volume.
    
-   -->Software Bugs are the #1 ticket subject, and they are also marked as Critical.
+   ->Software Bugs are the #1 ticket subject, and they are also marked as Critical.
 
-   -->Ticket volume is spread across all age groups.
+   ->Ticket volume is spread across all age groups.
    
-   -->The Tickets per Customer KPI is high.
+   ->The Tickets per Customer KPI is high.
 
-   -->25% of our total volume is Critical.
+   ->25% of our total volume is Critical.
 
 
 ## 🔹 Tools Used
