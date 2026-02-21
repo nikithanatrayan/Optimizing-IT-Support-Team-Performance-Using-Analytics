@@ -1,0 +1,63 @@
+Dashboard 1: Customer Support Performance Overview
+
+
+-->This dashboard provides a high level operational overview of customer support activities.
+
+-->Displays total tickets, average response time, and first response metrics.
+
+-->Shows ticket priority and communication channel distribution.
+
+-->Identifies top products generating support requests.
+
+-->Analyzes customer demographics including gender and age groups.
+
+-->Tracks response time trends to evaluate team performance.
+
+Purpose:
+To answer — Who is raising tickets, how urgent they are, and where support effort is concentrated.
+
+
+ Dashboard 2: Issue Analysis
+
+
+-->This dashboard focuses on deeper investigation of support issues and patterns.
+
+-->Highlights total high-priority tickets and tickets per customer.
+
+-->Tracks ticket trends across months and years.
+
+-->Compares ticket subjects across priority levels.
+
+-->Analyzes ticket types across different purchased products.
+
+Purpose:
+To answer — Why issues occur and which products or problems require immediate action.
+
+
+
+  DAX functions used:
+1. Avg First Response Time (hrs) = 
+AVERAGEX(
+    Fact_Tickets,
+    Fact_Tickets[First Response Time] / 3600
+)
+
+
+2.Avg ResponseTime (hrs) = 
+AVERAGEX(Fact_Tickets,Fact_Tickets[Response Time Fixed (hrs)]/3600)
+
+3.Total Tickets = 
+COUNT ( Fact_Tickets[Ticket ID] )
+
+4.Tickets per Customer = 
+DIVIDE(
+    [Total Tickets],
+    DISTINCTCOUNT('Fact_Tickets'[Customer_Key])
+)
+
+5.High Priority Tickets = 
+CALCULATE(
+    [Total Tickets],
+    'Dim_Ticket'[Ticket Priority] = "High"
+)
+  
