@@ -7,11 +7,11 @@ This project analyzes customer support ticket data to evaluate operational perfo
 
 Organizations often lack visibility into:
 
-   -->How quickly support teams respond to customers
+   ->How quickly support teams respond to customers
 
-   -->Which issues generate the highest workload
+   ->Which issues generate the highest workload
 
-   -->Products or channels causing operational delays
+   ->Products or channels causing operational delays
    
 This project aims to:
 
@@ -105,7 +105,8 @@ The following KPIs were used to evaluate and optimize support performance:
    Ticket Volume by Age Group : Column chart ,by grouping ages (e.g., 20s, 30s, 40s), this chart identifies which generation is contacting support the most.
 
    Dashboard 2 :
-     It is designed to dig into the data to find exactly why customers are complaining and which specific product issue combinations are creating the most risk for the company.
+   
+ It is designed to dig into the data to find exactly why customers are complaining and which specific product issue combinations are creating the most risk for the company.
 
    KPI Cards (High Priority Tickets, Tickets per Customer) : Used to give the big picture numbers immediately.
 
